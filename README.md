@@ -2,7 +2,8 @@
 
 ## 🚀 AI Engineer | Data Scientist | Python Developer
 
-Welcome to my GitHub profile! I’m Sandeep, an AI Engineer with a strong passion for problem-solving, machine learning, and deep learning. With a background in **Data Science**, I love working on cutting-edge technology and building intelligent systems.
+Welcome to my GitHub profile! I’m Sandeep, an AI Engineer with a strong passion for problem-solving, machine learning, and deep learning. With a background in **Data Science**, I love working on cutting-edge 
+technology and building intelligent systems.
 
 I specialize in:
 - Machine Learning & Deep Learning
